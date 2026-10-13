@@ -22,7 +22,7 @@ Living TV doesn't come with any channels besides the Forest. To watch others, ad
 
 1. Click to open the guide, then choose **Settings**.
 2. Choose **My Playlists**, then **Add Your Own Playlist**.
-3. Enter the playlist's link (it must start with `https://`). M3U and M3U8 playlists work. The guide link is optional: leave it blank and Living TV will try to find "now and next" listings for your channels on its own. If your playlist provider gives you an XMLTV guide link (`.xml` or `.xml.gz`), you can add it too.
+3. Enter the playlist's link (it must start with `https://`). M3U and M3U8 playlists work. The electronic program guide (EPG) is optional: leave it blank and Living TV will try to find "now and next" listings for your channels on its own. If your playlist provider gives you an EPG link (`.xml` or `.xml.gz`), you can add it too.
 
 Typing a long link is easier with dictation or the keyboard on your iPhone.
 
